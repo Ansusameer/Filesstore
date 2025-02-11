@@ -1,21 +1,21 @@
 class script(object):
-    START_TXT = """<i><b>🎃 Helo {}, I'm <a href=https://telegram.me/{}>{}</a></i></b> \n\n<i><b>🔅 I Can Provide You Any Movies, Web-Series, Anime, K-Dramas, Animation, etc!</i></b>"""
+    START_TXT = """<i><b>🎃 Helo {}, I'm <a href=https://telegram.me/{}>{}</a></i></b> \n\n<i><b>🔅 ʟᴏᴠᴇ ᴄᴏʀɴ & ᴊᴀᴠ? ɪ ᴀᴍ ᴍᴀᴅᴇ ᴛᴏ ʜᴇʟᴘ ʏᴏᴜ ᴛᴏ ғɪɴᴅ ᴡʜᴀᴛ ʏᴏᴜ'ʀᴇ ʟᴏᴏᴋɪɴɢ ꜰᴏʀ.</i></b>"""
     
     
-    HELP_TXT = """🔆彡[ @theAvaflix ]彡🔆"""
+    HELP_TXT = """🔆彡[ @FabHouse_bkup ]彡🔆"""
 
-    ABOUT_TXT = """🔆彡[ @theAvaflix ]彡🔆"""
+    ABOUT_TXT = """🔆彡[ @FabHouse_bkup ]彡🔆"""
 
-    SOURCE_TXT = """🔆彡[ @theAvaflix ]彡🔆"""
-    MANUELFILTER_TXT = """🔆彡[ @theAvaflix ]彡🔆"""
+    SOURCE_TXT = """🔆彡[ @FabHouse_bkup ]彡🔆"""
+    MANUELFILTER_TXT = """🔆彡[ @FabHouse_bkup ]彡🔆"""
 
-    BUTTON_TXT = """🔆彡[ @theAvaflix ]彡🔆"""
+    BUTTON_TXT = """🔆彡[ @FabHouse_bkup ]彡🔆"""
 
-    AUTOFILTER_TXT = """🔆彡[ @theAvaflix ]彡🔆"""
+    AUTOFILTER_TXT = """🔆彡[ @FabHouse_bkup ]彡🔆"""
 
-    CONNECTION_TXT = """🔆彡[ @theAvaflix ]彡🔆"""
-    EXTRAMOD_TXT = """🔆彡[ @theAvaflix ]彡🔆"""
-    ADMIN_TXT = """🔆彡[ @theAvaflix ]彡🔆"""
+    CONNECTION_TXT = """🔆彡[ @FabHouse_bkup ]彡🔆"""
+    EXTRAMOD_TXT = """🔆彡[ @FabHouse_bkup ]彡🔆"""
+    ADMIN_TXT = """🔆彡[ @FabHouse_bkup ]彡🔆"""
 
     STATUS_TXT = """<b>★ Tᴏᴛᴀʟ Fɪʟᴇs: <code>{}</code>
 ★ Tᴏᴛᴀʟ Usᴇʀs: <code>{}</code>
@@ -42,34 +42,34 @@ Nᴀᴍᴇ - {}"""
 
     I_CUDNT = """<b><i>💢 Sorry – It’s Not Available❗️
 
-⚠️ The Reason❓[<a href="https://t.me/Avaflixx/8">Click Here</a>]
+⚠️ The Reason❓[<a href="https://t.me/Helix/8">Click Here</a>]
 🗨 Please Follow Request Tips!
-🔆 Request Tips ➔ [<a href="https://t.me/Avaflixx/7">Click Here</a>]</i></b>"""
+🔆 Request Tips ➔ [<a href="https://t.me/Helix/7">Click Here</a>]</i></b>"""
 
 
     I_CUD_NT = """<b><i>💢 Sorry – It’s Not Available❗️
 
-⚠️ The Reason❓[<a href="https://t.me/Avaflixx/8">Click Here</a>]
+⚠️ The Reason❓[<a href="https://t.me/Helix/8">Click Here</a>]
 🗨 Please Follow Request Tips!
-🔆 Request Tips ➔ [<a href="https://t.me/Avaflixx/7">Click Here</a>]</i></b>"""
+🔆 Request Tips ➔ [<a href="https://t.me/Helix/7">Click Here</a>]</i></b>"""
 
     MVE_NT_FND = """<b><i>💢 Sorry – It’s Not Available❗️
 
-⚠️ The Reason❓[<a href="https://t.me/Avaflixx/8">Click Here</a>]
+⚠️ The Reason❓[<a href="https://t.me/Helix/8">Click Here</a>]
 🗨 Please Follow Request Tips!
-🔆 Request Tips ➔ [<a href="https://t.me/Avaflixx/7">Click Here</a>]</i></b>"""
+🔆 Request Tips ➔ [<a href="https://t.me/Helix/7">Click Here</a>]</i></b>"""
 
-    TOP_ALRT_MSG = """🔆彡[ @theAvaflix ]彡🔆"""
+    TOP_ALRT_MSG = """🔆彡[ @FabHouse_bkup ]彡🔆"""
 
-    MELCOW_ENG = """<b><i>🔆 "AVAFLiX • GROUP" 亗 🔆
+    MELCOW_ENG = """<b><i>🔆 "FabHouse_bkup • GROUP" 亗 🔆
 •───────────────────• 
-⚜Hey {}, Welcome To AVAFLIX • Group. You Can Request Any Movies, Web-Series, Anime, K-Dramas, Animation etc., here....</i></b>"""
+⚜Hey {}, Welcome To FabHouse_bkup • Group. You Can Request Any Movies, Web-Series, Anime, K-Dramas, Animation etc., here....</i></b>"""
 
-    SHORTLINK_INFO = """🔆彡[ @theAvaflix ]彡🔆"""
+    SHORTLINK_INFO = """🔆彡[ @FabHouse_bkup ]彡🔆"""
 
-    REQINFO = """🔆彡[ @theAvaflix ]彡🔆"""
+    REQINFO = """🔆彡[ @FabHouse_bkup ]彡🔆"""
 
-    SINFO = """🔆彡[ @theAvaflix ]彡🔆"""
+    SINFO = """🔆彡[ @FabHouse_bkup ]彡🔆"""
 
     NORSLTS = """
 ★ #𝗡𝗼𝗥𝗲𝘀𝘂𝗹𝘁𝘀 ★
@@ -81,7 +81,7 @@ Nᴀᴍᴇ - {}"""
 𝗠𝗲𝘀𝘀𝗮𝗴𝗲 <b>: {}</b>"""
 
     CAPTION = """
- <a href="https://telegram.me/AVAFLIXOFFICIAL"><b><i>{file_name}</i></b></a>"""
+ <a href="https://telegram.me/FabHouse_bkup"><b><i>{file_name}</i></b></a>"""
 
     IMDB_TEMPLATE_TXT = """
 <b>Query: {query}
@@ -93,11 +93,11 @@ IMDb Data:
 ⏱️ Result Shown in: {remaining_seconds} <i>seconds</i> 🔥
 🌟 Rating: <a href={url}/ratings>{rating}</a> / 10</b>"""
     
-    ALL_FILTERS = """🔆彡[ @theAvaflix ]彡🔆"""
+    ALL_FILTERS = """🔆彡[ @FabHouse_bkup ]彡🔆"""
     
-    GFILTER_TXT = """🔆彡[ @theAvaflix ]彡🔆"""
+    GFILTER_TXT = """🔆彡[ @FabHouse_bkup ]彡🔆"""
     
-    FILE_STORE_TXT = """🔆彡[ @theAvaflix ]彡🔆"""
+    FILE_STORE_TXT = """🔆彡[ @FabHouse_bkup ]彡🔆"""
     RESTART_TXT = """
 <b>Bᴏᴛ Rᴇsᴛᴀʀᴛᴇᴅ !
 
